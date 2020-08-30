@@ -1,0 +1,23 @@
+374: number
+main : identifier
+(
+)
+{ 
+int : keyword 
+a : identifier
+,
+b : identifier
+==: relational operator EQ 
+4: number
+. 
+87: number
+;
+/': invalid lexeme
+<: relational operator LT
++
+<=: relational operator LE
+!
+,
+!=: relational operator NE
+Aparna: identifier
+comment did not close
